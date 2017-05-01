@@ -12,5 +12,13 @@
     "experts"
   ],
   "author": "Calvin Ferrando <karuban.ferurando@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karuban88/crowd-source-prediction-service"
+  },
+  "bugs": {
+    "url": "https://github.com/karuban88/crowd-source-prediction-service/issues"
+  },
+  "homepage": "https://github.com/karuban88/crowd-source-prediction-service#readme"
 }
